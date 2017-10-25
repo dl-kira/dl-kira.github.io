@@ -1,20 +1,20 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: DL Kira
+description: "A Deep Learning Blogging Site"
+url: "https://dl-kira.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/dl-kira.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /dl-kira.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
+github_username:  dl-kira
+project_repository: dl-kira.github.io
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
